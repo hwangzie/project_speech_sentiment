@@ -1,0 +1,538 @@
+[
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Hey, everyone.",
+        "start": 840,
+        "end": 1280,
+        "confidence": 0.59118336,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Doctor Michael Bruce, the sleep doctor here.",
+        "start": 1342,
+        "end": 3486,
+        "confidence": 0.9071116,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I figured out since I wrote a book about chronotypes, I might as well explain to you exactly what they are.",
+        "start": 3598,
+        "end": 8798,
+        "confidence": 0.7881248,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "A chronotype is your genetic predetermined sleep schedule.",
+        "start": 8934,
+        "end": 12550,
+        "confidence": 0.7835687,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Many people have heard of this concept, but not actually heard the term chronotype.",
+        "start": 12670,
+        "end": 16710,
+        "confidence": 0.74238485,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What we're talking about here is if anybody out there has ever been called an early bird or a night owl.",
+        "start": 16790,
+        "end": 21374,
+        "confidence": 0.8172708,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So why would this be important?",
+        "start": 21502,
+        "end": 23542,
+        "confidence": 0.5691344,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "If you understand what your chronotype is, then you know what your hormone schedule is, which becomes critically important for any and all activities that you do throughout the day.",
+        "start": 23686,
+        "end": 32914,
+        "confidence": 0.7929157,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "As an example, it turns out there's a perfect time of day to do just about everything based on your chronotype.",
+        "start": 33002,
+        "end": 38370,
+        "confidence": 0.8047247,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And yes, I'm talking about everything from intimacy to drinking a cup of coffee to even working out.",
+        "start": 38410,
+        "end": 43642,
+        "confidence": 0.82279396,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "You can do all of them better if you know your chronotype.",
+        "start": 43746,
+        "end": 47138,
+        "confidence": 0.6080899,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What are the four chronotypes?",
+        "start": 47234,
+        "end": 48762,
+        "confidence": 0.84659463,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "First, we have lions.",
+        "start": 48866,
+        "end": 50250,
+        "confidence": 0.6823587,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "They replace early birds.",
+        "start": 50370,
+        "end": 52378,
+        "confidence": 0.6949176,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "These are the folks that make a list every single day and go from step one to step two to step three.",
+        "start": 52434,
+        "end": 57186,
+        "confidence": 0.84679735,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "High energy people very interested in exercise and fitness.",
+        "start": 57298,
+        "end": 60514,
+        "confidence": 0.88755506,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And again, early risers.",
+        "start": 60562,
+        "end": 62346,
+        "confidence": 0.7295398,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Unfortunately, socially they don't do so well.",
+        "start": 62458,
+        "end": 64930,
+        "confidence": 0.8906562,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I mean, let's be honest, dinner in a movie is kind of out for a lion because they've been up since 530 in the morning.",
+        "start": 64970,
+        "end": 69738,
+        "confidence": 0.52804977,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So pros and cons in either direction.",
+        "start": 69834,
+        "end": 72098,
+        "confidence": 0.7912588,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Next come the bears.",
+        "start": 72234,
+        "end": 73386,
+        "confidence": 0.72198904,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "That represents the people in between the early birds and the night owls.",
+        "start": 73458,
+        "end": 77354,
+        "confidence": 0.89693844,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Believe it or not, they make up almost 55% of the population.",
+        "start": 77442,
+        "end": 80978,
+        "confidence": 0.716696,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Honestly, I wish I was a bear.",
+        "start": 81114,
+        "end": 83194,
+        "confidence": 0.46228608,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "The nine to five work schedule works perfect for a bear.",
+        "start": 83282,
+        "end": 86298,
+        "confidence": 0.82488185,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "A lot of my bears have a tendency to be the people that get the work done.",
+        "start": 86394,
+        "end": 90450,
+        "confidence": 0.7306446,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Sometimes they're extroverted, sometimes they're introverted.",
+        "start": 90610,
+        "end": 93106,
+        "confidence": 0.5034478,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "They're always fun to be around and usually a great friend.",
+        "start": 93138,
+        "end": 96298,
+        "confidence": 0.97676224,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Next are the night owls, and I call them wolves.",
+        "start": 96434,
+        "end": 99050,
+        "confidence": 0.659528,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I personally am a night owl.",
+        "start": 99170,
+        "end": 100610,
+        "confidence": 0.871422,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Hardly ever go to bed before 1130 or twelve, and that's very characteristic of wolfish characteristics.",
+        "start": 100690,
+        "end": 106754,
+        "confidence": 0.53442496,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "One of the things we know about people who fall into this category is these have a tendency to be my creatives, my artists, my actors, my authors, people of that nature.",
+        "start": 106882,
+        "end": 115818,
+        "confidence": 0.86610967,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I mean, let's be honest, when you meet somebody who's really creative, and you say, when did you get your inspiration?",
+        "start": 115914,
+        "end": 120204,
+        "confidence": 0.50884867,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "They usually say, 02:00 in the morning.",
+        "start": 120322,
+        "end": 122152,
+        "confidence": 0.8800012,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "The final category, which is the new category, which I discovered is called the dolphin.",
+        "start": 122256,
+        "end": 127040,
+        "confidence": 0.83932865,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Dolphins actually represent people with very erratic genetic sleep schedules.",
+        "start": 127160,
+        "end": 131784,
+        "confidence": 0.51722664,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "So these people actually come to me oftentimes.",
+        "start": 131872,
+        "end": 134256,
+        "confidence": 0.8490918,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And that's really who I wrote the book for.",
+        "start": 134288,
+        "end": 135968,
+        "confidence": 0.764565,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "With a schedule where they look like a lion wanting to wake up early and meet the day, but unfortunately they get such poor sleep at night, it's incredibly, incredibly difficult.",
+        "start": 136064,
+        "end": 145152,
+        "confidence": 0.8875813,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Now you might be saying, okay, well, I've listened to what you said, Doctor Bruce, but, but how do I know what my personal chronotype is?",
+        "start": 145256,
+        "end": 152142,
+        "confidence": 0.7580556,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You can learn your chronotype by visiting thesleepdoctor.com and take my chronotype quiz.",
+        "start": 152256,
+        "end": 158898,
+        "confidence": 0.822174,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Now another question people say is, well, once I took the quiz, I learned I was a lion.",
+        "start": 159074,
+        "end": 163714,
+        "confidence": 0.72725165,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Can I change my chronotype?",
+        "start": 163802,
+        "end": 165890,
+        "confidence": 0.8336993,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Well, to be honest with you, no.",
+        "start": 165970,
+        "end": 167450,
+        "confidence": 0.65691465,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "It's genetic.",
+        "start": 167530,
+        "end": 168354,
+        "confidence": 0.7149669,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "However, there's something out there called chronolongevity, which I think is pretty interesting.",
+        "start": 168442,
+        "end": 172794,
+        "confidence": 0.97419095,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Believe it or not, we all go through all of the different chronotypes.",
+        "start": 172882,
+        "end": 177234,
+        "confidence": 0.7874098,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "So when we're an itty bitty baby, we're a lion waking up early and going to bed early.",
+        "start": 177322,
+        "end": 181982,
+        "confidence": 0.5245035,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Once the children hit that toddler through middle school phase, you're a bear going to bed and waking up right around the time that the sun comes up.",
+        "start": 182106,
+        "end": 189318,
+        "confidence": 0.6730242,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "Then what happens?",
+        "start": 189374,
+        "end": 190166,
+        "confidence": 0.7034481,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You go into adolescence and then you become a wolf.",
+        "start": 190238,
+        "end": 192870,
+        "confidence": 0.6582004,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I mean, remember when you were 1415 years old?",
+        "start": 192950,
+        "end": 195430,
+        "confidence": 0.7602621,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "All you wanted to do was stay up late and sleep late.",
+        "start": 195470,
+        "end": 197958,
+        "confidence": 0.60479337,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "When you hit about 2022 years old, your body sets for about 30 to 40 years.",
+        "start": 198054,
+        "end": 202534,
+        "confidence": 0.90491056,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "And then something else happens.",
+        "start": 202582,
+        "end": 204510,
+        "confidence": 0.63643473,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "You actually start to go backwards.",
+        "start": 204550,
+        "end": 206222,
+        "confidence": 0.8739663,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "You ever notice how your grandparents want to eat dinner at 430 in the afternoon?",
+        "start": 206326,
+        "end": 210194,
+        "confidence": 0.79972374,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "That's because their phase is moving backwards because of that change in melatonin.",
+        "start": 210302,
+        "end": 215106,
+        "confidence": 0.58500624,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "So actually you actually get a second chance to be a lion if you ever wanted to be.",
+        "start": 215178,
+        "end": 219530,
+        "confidence": 0.676169,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "Now what if I just don't feel like I fit inside one chronotype?",
+        "start": 219650,
+        "end": 224018,
+        "confidence": 0.63893354,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "This is something that's pretty common and we oftentimes think these people are the dolphin or the insomnia chronotype.",
+        "start": 224114,
+        "end": 230490,
+        "confidence": 0.58881223,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "But if you want to get a better sense for your chronotype, try following a consistent schedule for two weeks, then retake the quiz.",
+        "start": 230530,
+        "end": 238272,
+        "confidence": 0.77120787,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "What do I mean by consistent schedule?",
+        "start": 238386,
+        "end": 240188,
+        "confidence": 0.81315315,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "I want you eating at the right times, which means stopping food by about 2 hours before bed, avoiding caffeine after 02:00 p.m. and following a consistent wake up schedule.",
+        "start": 240284,
+        "end": 249940,
+        "confidence": 0.518764,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEGATIVE",
+        "text": "The thing that affects your circadian rhythm the most turns out to be the hormone melatonin.",
+        "start": 250060,
+        "end": 254732,
+        "confidence": 0.51863927,
+        "speaker": null
+    },
+    {
+        "sentiment": "NEUTRAL",
+        "text": "To learn more about melatonin and whether it's right for you, check out our video.",
+        "start": 254836,
+        "end": 258884,
+        "confidence": 0.8767213,
+        "speaker": null
+    },
+    {
+        "sentiment": "POSITIVE",
+        "text": "This is doctor Michael Bruce, the sleep doctor wishing you sweet dreams.",
+        "start": 259012,
+        "end": 262700,
+        "confidence": 0.8357607,
+        "speaker": null
+    }
+]
